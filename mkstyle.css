@@ -1,0 +1,45 @@
+
+/* Really rudimentary style sheet */
+
+body {
+	font-family: Saira;
+	background-color: #000000; /* Black */
+	color: #CFB53B;
+}
+
+h1 {
+	color: #CFB53B;
+	text-align: center;
+	font-size: 64px;
+	/*background-color: yellow; 
+	border-style: dashed; */
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+p {
+	font-size: 24px;
+	color: #CFB53B;
+	text-align: center;
+}
+
+
+img {
+	display: block;
+ 	margin-left: auto;
+	margin-right: auto;
+	width: 25%;
+	height: auto;
+}
+
+
+/*
+  lines 12 to 14 => 1 CSS *rule*
+  `p` (line 12) => selector. There are three types of selectors...
+  `font-size: 24px;` => 1 *declaration*, a.k.a., property-value pair
+    `font-size` => property
+    `24px` => value
+*/
+
