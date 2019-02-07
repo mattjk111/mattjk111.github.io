@@ -34,6 +34,13 @@ img {
 	height: auto;
 }
 
+#biotext {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
 
 /*
   lines 12 to 14 => 1 CSS *rule*
