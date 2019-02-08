@@ -39,6 +39,10 @@ img {
 }
 
 
+.headers {
+	text-decoration: underline;
+}
+
 /*
   lines 12 to 14 => 1 CSS *rule*
   `p` (line 12) => selector. There are three types of selectors...
