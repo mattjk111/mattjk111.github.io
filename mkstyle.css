@@ -1,8 +1,8 @@
 
-/* Really rudimentary style sheet */
+/* Style Sheet for Matt's website */
 
 body {
-	font-family: Verdana, Geneva, sans-serif;
+	font-family: Saira, Geneva, sans-serif;
 	background-color: #000000; /* Black */
 	color: #CFB53B;
 }
@@ -11,10 +11,9 @@ h1 {
 	color: #CFB53B;
 	text-align: center;
 	font-size: 64px;
-	/*background-color: yellow; 
-	border-style: dashed; */
-	padding-top: 50px;
-	padding-bottom: 50px;
+
+	padding-top: 20px;
+	padding-bottom: 20px;
 	margin-left: 20%;
 	margin-right: 20%;
 }
